@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'franklin_gothicregular';
+    src: url('../fonts/franklin_gothic_regular-webfont.woff2') format('woff2'),
+         url('../fonts/franklin_gothic_regular-webfont.woff') format('woff'),
+         url('../fonts/franklin_gothic_regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Century Gothic_regular';
+    src: url('../fonts/Century Gothic_regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Century Gothic_bold';
+    src: url('../fonts/Century Gothic_bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'franklin_gothic_demi';
+    src: url('../fonts/franklin_gothic_demi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'franklin_gothic_book';
+    src: url('../fonts/franklin_gothic_book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'franklin gothic heavy';
+    src: url('../fonts/franklin gothic heavy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
